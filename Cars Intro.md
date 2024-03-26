@@ -1,21 +1,16 @@
-# Cars Model Analysis
- ____
- ![](car_analysis.jpeg)
- 
+## Project Title: Weather Data Analytics Project.
+
 **Task Overview:** The purpose of this project is to analyze the available data that shows the model of cars, their make, what the engine is made up of, and other factors that governs the Car. the Data is of Different Cars and their specification
 
-The Data was made available by Wanda for this Project, It is saved in a csv file with the name "CarsDataset".
+   The Data was made available by Wanda for this Project, It is saved in a csv file with the name "CarsDataset".
 
 ## Project Objectives:
 This project will focus on analyzing Cars data without a specific date range. We are looking to understand;
- > The demographics of the cars model, How much KPG does most set of buyers purchase their cars, How long a model is well informed, How good are the cars, How much of sales have they been making, etc.
+ > The demographics of the cars model, How much KPG does most set of buyers purchase their cars, How long a model is well informed, How goo are the cars, How much of sales have they been making, etc.
  
 If there's any chance for further question, there will be space to answer them.
 
 ## Data Column Details.
-****
-![](cars_data.png)
-
 Here are the names of the column with a brief info
 
 + Make: This column contains the make of the cars (e.g Acura, Accord, Audi, etc.)
@@ -35,9 +30,6 @@ Here are the names of the column with a brief info
 + Length: The length of the car in centimeters.
 
 ## Business Requirements/Task Overview:
-****
-![](data_structure.png)
-
  *We would want to first analyze the data-frame to view some column aggregation, looking at the summary, count of null values, number of unique values in a column, etc.*
  #### After Satisfying the above, we can then head into solving the tasks below.
  1. Find all Null Values in the dataset. If there is any null value in any column, then fill it with the mean of that column.
@@ -51,8 +43,6 @@ Here are the names of the column with a brief info
 + An interactive dashboard containing important KPI's and the rest of unanswered questions from the Cars dataset.
 + An  R Script containing generated coding for showing insights on the Cars Dataset
 + A report containing insights on Weather Dataset (e.g Unique Weather Numbers, Filtered Table, etc.)
-
-![](Rstudio.png)
 
 ## Constraints:
 - The data cannot be shared with unauthorized personnel.
